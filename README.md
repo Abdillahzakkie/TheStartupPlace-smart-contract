@@ -16,7 +16,7 @@ Try running some of the following tasks:
 ```shell
 npm compile
 npm test
-npx deploy
+npm deploy
 npm verify {{deployed_contract_address}}
 npm flatten
 ```
