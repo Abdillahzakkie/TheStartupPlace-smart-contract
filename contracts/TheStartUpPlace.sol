@@ -16,7 +16,7 @@ contract TheStartUpPlace is IERC20 {
         _name = "The StartUp Place";
         _symbol = "TSUP";
 
-        // mint 1_000_000_000 TSUP to the owner
+        // mint 1_000_000 TSUP to the owner
         _mint(msg.sender, 1_000_000 ether);
     }
 
