@@ -18,7 +18,9 @@ npm verify {{deployed_contract_address}}
 npm flatten
 ```
 
-### Deployed contract address: https://rinkeby.etherscan.io/address/0xF1233d93dC5AEaeeaE46c649968a177831FAE734#code
+### Deployed contract address:
+
+https://rinkeby.etherscan.io/address/0xF1233d93dC5AEaeeaE46c649968a177831FAE734#code
 
 ### Note:: To compile, test, deploy and verify the contract please create a .env file and fill in the following details
 
