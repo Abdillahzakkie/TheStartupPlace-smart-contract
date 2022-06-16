@@ -3,7 +3,10 @@
 Test sample project. Below are utils script commands available in the project
 
 Clone this repository using the command provided below
-` git clone https://github.com/Abdillahzakkie/TheStartupPlace-smart-contract`
+
+```
+git clone https://github.com/Abdillahzakkie/TheStartupPlace-smart-contract
+```
 
 After cloning the repository, you can run the following command to install the dependencies
 ` npm install`
